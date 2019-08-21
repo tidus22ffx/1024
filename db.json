@@ -1,3 +1,70 @@
 {
-
+  "monsters": [
+    { 
+      "id": 1, 
+      "name": "Turtle", 
+      "traits": [
+      ]
+    },
+  ],
+  "traits": [
+    { 
+      "id": 1, 
+      "name": "Hard Shell", 
+      "statusModifier": 
+      {
+        "defense": 10,
+        "speed": -5,
+        "attack": -2,
+        "elementResistance": 5
+      }
+    },
+    { 
+      "id": 2, 
+      "name": "Claws", 
+      "statusModifier": 
+      {
+        "defense": 3,
+        "speed": 1,
+        "attack": 3,
+        "elementResistance": 0
+      }
+    },
+    { 
+      "id": 3, 
+      "name": "Fur", 
+      "statusModifier": 
+      {
+        "defense": 2,
+        "speed": -1,
+        "attack": 0,
+        "elementResistance": 6
+      }
+    },
+    { 
+      "id": 4, 
+      "name": "Fangs", 
+      "statusModifier": 
+      {
+        "defense": 2,
+        "speed": 0,
+        "attack": 7,
+        "elementResistance": 0
+      }
+    },
+    { 
+      "id": 5, 
+      "name": "Tail", 
+      "statusModifier": 
+      {
+        "defense": 3,
+        "speed": -1,
+        "attack": 1,
+        "elementResistance": 2
+      }
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
