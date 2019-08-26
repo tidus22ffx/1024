@@ -1,11 +1,3 @@
 {
-  "monsters": [
-    { 
-      "id": 1, 
-      "name": "Turtle"
-    },
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
 }
