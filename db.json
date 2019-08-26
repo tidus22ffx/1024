@@ -13,6 +13,6 @@
   },
   "login": {
     "username" : "admin",
-    "password" : "admin",
+    "password" : "admin"
   }
 }
