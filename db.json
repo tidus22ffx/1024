@@ -12,7 +12,9 @@
     "name": "typicode"
   },
   "login": {
-    "username" : "admin",
-    "password" : "admin"
+    "username": "admin",
+    "password": "admin",
+    "name": "Faisal",
+    "address": "Tanjung Duren"
   }
 }
