@@ -2,9 +2,7 @@
   "monsters": [
     { 
       "id": 1, 
-      "name": "Turtle", 
-      "traits": [
-      ]
+      "name": "Turtle"
     },
   ],
   "profile": {
