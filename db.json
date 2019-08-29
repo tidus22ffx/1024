@@ -16,5 +16,37 @@
     "password": "admin",
     "name": "Faisal",
     "address": "Tanjung Duren"
-  }
+  },
+  "todolist": [
+    {
+      "id": 1
+      "contractNo": "2019/08/29/09/001",
+      "orderDate": "2019/08/29 09:00:00"
+    },
+    {
+      "id": 2
+      "contractNo": "2019/08/29/09/002",
+      "orderDate": "2019/08/29 09:00:00"
+    },
+    {
+      "id": 3
+      "contractNo": "2019/08/29/09/003",
+      "orderDate": "2019/08/29 09:00:00"
+    },
+    {
+      "id": 4
+      "contractNo": "2019/08/29/09/004",
+      "orderDate": "2019/08/29 09:00:00"
+    },
+    {
+      "id": 5
+      "contractNo": "2019/08/29/09/005",
+      "orderDate": "2019/08/29 09:00:00"
+    },
+    {
+      "id": 6
+      "contractNo": "2019/08/29/09/006",
+      "orderDate": "2019/08/29 09:00:00"
+    }
+  ]
 }
