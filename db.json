@@ -26,7 +26,7 @@
         "color": "blue",
         "size": "large",
         "shadow": true,
-        "completed" false
+        "completed": false
       }
     },
     {
