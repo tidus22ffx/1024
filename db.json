@@ -21,32 +21,68 @@
     {
       "id": 1,
       "contractNo": "2019/08/29/09/001",
-      "orderDate": "2019/08/29 09:00:00"
+      "orderDate": "2019/08/29 09:00:00",
+      "settings": {
+        "color": "blue",
+        "size": "large",
+        "shadow": true,
+        "completed" false
+      }
     },
     {
       "id": 2,
       "contractNo": "2019/08/29/09/002",
-      "orderDate": "2019/08/29 09:00:00"
+      "orderDate": "2019/08/29 09:00:00",
+      "settings": {
+        "color": "red",
+        "size": "large",
+        "shadow": false,
+        "completed" false
+      }
     },
     {
       "id": 3,
       "contractNo": "2019/08/29/09/003",
-      "orderDate": "2019/08/29 09:00:00"
+      "orderDate": "2019/08/29 09:00:00",
+      "settings": {
+        "color": "green",
+        "size": "medium",
+        "shadow": true,
+        "completed" true
+      }
     },
     {
       "id": 4,
       "contractNo": "2019/08/29/09/004",
-      "orderDate": "2019/08/29 09:00:00"
+      "orderDate": "2019/08/29 09:00:00",
+      "settings": {
+        "color": "green",
+        "size": "medium",
+        "shadow": true,
+        "completed" true
+      }
     },
     {
       "id": 5,
       "contractNo": "2019/08/29/09/005",
-      "orderDate": "2019/08/29 09:00:00"
+      "orderDate": "2019/08/29 09:00:00",
+      "settings": {
+        "color": "green",
+        "size": "medium",
+        "shadow": true,
+        "completed" true
+      }
     },
     {
       "id": 6,
       "contractNo": "2019/08/29/09/006",
-      "orderDate": "2019/08/29 09:00:00"
+      "orderDate": "2019/08/29 09:00:00",
+      "settings": {
+        "color": "green",
+        "size": "medium",
+        "shadow": true,
+        "completed" true
+      }
     }
   ]
 }
