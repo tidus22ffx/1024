@@ -37,7 +37,7 @@
         "color": "red",
         "size": "large",
         "shadow": false,
-        "completed" false
+        "completed": false
       }
     },
     {
@@ -48,7 +48,7 @@
         "color": "green",
         "size": "medium",
         "shadow": true,
-        "completed" true
+        "completed": true
       }
     },
     {
@@ -59,7 +59,7 @@
         "color": "green",
         "size": "medium",
         "shadow": true,
-        "completed" true
+        "completed": true
       }
     },
     {
@@ -70,7 +70,7 @@
         "color": "green",
         "size": "medium",
         "shadow": true,
-        "completed" true
+        "completed": true
       }
     },
     {
@@ -81,7 +81,7 @@
         "color": "green",
         "size": "medium",
         "shadow": true,
-        "completed" true
+        "completed": true
       }
     }
   ]
