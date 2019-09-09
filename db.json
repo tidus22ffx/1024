@@ -40,7 +40,7 @@
       "alamat": "KP. PANYINGKIRAN, DEUDEUL, TARAJU, KAB. TASIKMALAYA46674",
       "telp": "(021) 512345",
       "mobile": "082146645896",
-      "prioritas": "RENDAH"
+      "prioritas": 1
     },
     {
       "id": 2,
@@ -64,7 +64,7 @@
       "alamat": "KP. PANYINGKIRAN, DEUDEUL, TARAJU, KAB. TASIKMALAYA46674",
       "telp": "(021) 512345",
       "mobile": "082146645896",
-      "prioritas": "RENDAH"
+      "prioritas": 2
     },
     {
       "id": 3,
@@ -88,7 +88,7 @@
       "alamat": "KP. PANYINGKIRAN, DEUDEUL, TARAJU, KAB. TASIKMALAYA46674",
       "telp": "(021) 512345",
       "mobile": "082146645896",
-      "prioritas": "RENDAH"    
+      "prioritas": 2    
     },
     {
       "id": 4,
@@ -112,7 +112,7 @@
       "alamat": "KP. PANYINGKIRAN, DEUDEUL, TARAJU, KAB. TASIKMALAYA46674",
       "telp": "(021) 512345",
       "mobile": "082146645896",
-      "prioritas": "RENDAH"
+      "prioritas": 3
     },
     {
       "id": 5,
@@ -136,7 +136,7 @@
       "alamat": "KP. PANYINGKIRAN, DEUDEUL, TARAJU, KAB. TASIKMALAYA46674",
       "telp": "(021) 512345",
       "mobile": "082146645896",
-      "prioritas": "RENDAH"
+      "prioritas": 1
     },
     {
       "id": 6,
@@ -160,7 +160,7 @@
       "alamat": "KP. PANYINGKIRAN, DEUDEUL, TARAJU, KAB. TASIKMALAYA46674",
       "telp": "(021) 512345",
       "mobile": "082146645896",
-      "prioritas": "RENDAH"
+      "prioritas": 2
     }
   ]
 }
