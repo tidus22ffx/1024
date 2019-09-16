@@ -58,7 +58,8 @@
       "foto1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4immVsNuDxez36ccBk8lMFx4WfvX5jzDsJw7FDQH5gLdFiqL",
       "foto2": "",
       "tglJatuhTempo": "2023-01-31",
-      "currentBalance": 70000000
+      "currentBalance": 70000000,
+      "todoStatus": "active"
     },
     {
       "id": 2,
@@ -100,7 +101,8 @@
       "foto1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4immVsNuDxez36ccBk8lMFx4WfvX5jzDsJw7FDQH5gLdFiqL",
       "foto2": "",
       "tglJatuhTempo": "2023-01-31",
-      "currentBalance": 70000000
+      "currentBalance": 70000000,
+      "todoStatus": "active"
     },
     {
       "id": 3,
@@ -142,7 +144,8 @@
       "foto1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4immVsNuDxez36ccBk8lMFx4WfvX5jzDsJw7FDQH5gLdFiqL",
       "foto2": "",
       "tglJatuhTempo": "2023-01-31",
-      "currentBalance": 70000000
+      "currentBalance": 70000000,
+      "todoStatus": "active"
     },
     {
       "id": 4,
@@ -184,7 +187,8 @@
       "foto1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4immVsNuDxez36ccBk8lMFx4WfvX5jzDsJw7FDQH5gLdFiqL",
       "foto2": "",
       "tglJatuhTempo": "2023-01-31",
-      "currentBalance": 70000000
+      "currentBalance": 70000000,
+      "todoStatus": "active"
     },
     {
       "id": 5,
@@ -226,7 +230,8 @@
       "foto1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4immVsNuDxez36ccBk8lMFx4WfvX5jzDsJw7FDQH5gLdFiqL",
       "foto2": "",
       "tglJatuhTempo": "2023-01-31",
-      "currentBalance": 70000000
+      "currentBalance": 70000000,
+      "todoStatus": "active"
     },
     {
       "id": 6,
@@ -268,7 +273,8 @@
       "foto1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4immVsNuDxez36ccBk8lMFx4WfvX5jzDsJw7FDQH5gLdFiqL",
       "foto2": "",
       "tglJatuhTempo": "2023-01-31",
-      "currentBalance": 70000000
+      "currentBalance": 70000000,
+      "todoStatus": "active"
     }
   ]
 }
