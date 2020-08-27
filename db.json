@@ -1,430 +1,430 @@
 {
-  "todolist": [
-{
-nama: "Hotel Melati Tiga",
-target: "105139440.00",
-realisasi: "97096616.00",
-presentase: "92.35"
-},
-{
-nama: "Hotel Melati Dua",
-target: "16790340.00",
-realisasi: "16884000.00",
-presentase: "100.56"
-},
-{
-nama: "Hotel Melati Satu",
-target: "49323302.00",
-realisasi: "39196071.00",
-presentase: "79.47"
-},
-{
-nama: "Losmen/Rumah Penginapan",
-target: "6877260.00",
-realisasi: "13626500.00",
-presentase: "198.14"
-},
-{
-nama: "Restoran",
-target: "45990800.00",
-realisasi: "52501648.00",
-presentase: "114.16"
-},
-{
-nama: "Rumah Makan",
-target: "34405000.00",
-realisasi: "37654000.00",
-presentase: "109.44"
-},
-{
-nama: "Katering",
-target: "318071200.00",
-realisasi: "541848789.44",
-presentase: "170.35"
-},
-{
-nama: "Pagelaran Kesenian",
-target: "10501680.00",
-realisasi: "6736500.00",
-presentase: "64.15"
-},
-{
-nama: "Permainan Biliar",
-target: "298500.00",
-realisasi: "298500.00",
-presentase: "100.00"
-},
-{
-nama: "Permainan Ketangkasan",
-target: "4000000.00",
-realisasi: "5143563.00",
-presentase: "128.59"
-},
-{
-nama: "Pusat Kebugaran",
-target: "700000.00",
-realisasi: "517000.00",
-presentase: "73.86"
-},
-{
-nama: "Pertandingan Olahraga",
-target: "279882.00",
-realisasi: "0.00",
-presentase: "0.00"
-},
-{
-nama: "Reklame/Bill Board",
-target: "121311872.00",
-realisasi: "120428448.00",
-presentase: "99.27"
-},
-{
-nama: "Reklame Kain",
-target: "18000000.00",
-realisasi: "24886238.00",
-presentase: "138.26"
-},
-{
-nama: "Reklame Berjalan",
-target: "439690.00",
-realisasi: "7915646.00",
-presentase: "1,800.28"
-},
-{
-nama: "Pajak Penerangan Jalan PLN",
-target: "9688500000.00",
-realisasi: "6472200640.00",
-presentase: "66.80"
-},
-{
-nama: "Pajak Parkir",
-target: "20997184.00",
-realisasi: "19623975.00",
-presentase: "93.46"
-},
-{
-nama: "Pajak Air tanah",
-target: "22960337.00",
-realisasi: "27629170.00",
-presentase: "120.33"
-},
-{
-nama: "Mineral Bukan Logam dan Batuan",
-target: "36616187.00",
-realisasi: "40050000.00",
-presentase: "109.38"
-},
-{
-nama: "Pajak Batuan Non Sirtu",
-target: "11872000.00",
-realisasi: "9426000.00",
-presentase: "79.40"
-},
-{
-nama: "PBB P2",
-target: "14160284000.00",
-realisasi: "8689812612.00",
-presentase: "61.37"
-},
-{
-nama: "Bea Perolehan Tanah dan Bangunan",
-target: "1786338827.00",
-realisasi: "1531291245.00",
-presentase: "85.72"
-},
-{
-nama: "Retribusi Pelayanan Kesehatan",
-target: "7295138932.00",
-realisasi: "4258708800.00",
-presentase: "58.38"
-},
-{
-nama: "Retribusi Pelayanan Parkir di tepi jalan umum",
-target: "1239655000.00",
-realisasi: "901926500.00",
-presentase: "72.76"
-},
-{
-nama: "Retribusi Pelayanan Pasar",
-target: "2650450000.00",
-realisasi: "1169603000.00",
-presentase: "44.13"
-},
-{
-nama: "Retribusi Pengujian Kendaraan Bermotor",
-target: "213965000.00",
-realisasi: "177800000.00",
-presentase: "83.10"
-},
-{
-nama: "Retribusi Pengendalian Menara Telekomunikasi",
-target: "350000000.00",
-realisasi: "477537000.00",
-presentase: "136.44"
-},
-{
-nama: "Retribusi Pelayanan Tera/Tera Ulang",
-target: "17250000.00",
-realisasi: "0.00",
-presentase: "0.00"
-},
-{
-nama: "Retribusi Pemakaian Kekayaan Daerah",
-target: "62165000.00",
-realisasi: "56161500.00",
-presentase: "90.34"
-},
-{
-nama: "Retribusi Tempat Pelelangan",
-target: "138511255.00",
-realisasi: "89596315.00",
-presentase: "64.69"
-},
-{
-nama: "Retribusi Terminal",
-target: "22592000.00",
-realisasi: "19645000.00",
-presentase: "86.96"
-},
-{
-nama: "Retribusi Tempat Khusus Parkir",
-target: "2489000.00",
-realisasi: "1723000.00",
-presentase: "69.22"
-},
-{
-nama: "Retribusi Tempat Penginapan/Pesanggrahan/Villa",
-target: "9000000.00",
-realisasi: "3795000.00",
-presentase: "42.17"
-},
-{
-nama: "Retribusi Rumah Potong Hewan",
-target: "14260000.00",
-realisasi: "7015000.00",
-presentase: "49.19"
-},
-{
-nama: "Pendapatan Denda Pajak Restoran",
-target: "9200.00",
-realisasi: "23980.00",
-presentase: "260.65"
-},
-{
-nama: "Pendapatan Denda Pajak Reklame",
-target: "768448.00",
-realisasi: "1829948.00",
-presentase: "238.14"
-},
-{
-nama: "Pendapatan Denda Pajak Parkir",
-target: "2816.00",
-realisasi: "17792.00",
-presentase: "631.82"
-},
-{
-nama: "Pendapatan Denda Pajak Air Tanah",
-target: "39663.00",
-realisasi: "46498.00",
-presentase: "117.23"
-},
-{
-nama: "Pendapatan Denda Pajak Mineral Bukan Logam dan Batuan",
-target: "683813.00",
-realisasi: "733373.00",
-presentase: "107.25"
-},
-{
-nama: "Pendapatan Denda Pajak Bumi dan Bangunan Perdesaan dan Perkotaan",
-target: "2070000.00",
-realisasi: "20862465.00",
-presentase: "1,007.85"
-},
-{
-nama: "Pendapatan Denda Bea Perolehan Hak Atas Tanah dan Bangunan",
-target: "178961173.00",
-realisasi: "178961173.00",
-presentase: "100.00"
-},
-{
-nama: "Pendapatan dari Pengembalian Kelebihan pembayaran Gaji dan Tunjangan",
-target: "17867950.00",
-realisasi: "67586256.00",
-presentase: "378.25"
-},
-{
-nama: "Hasil Pengelolaan Dana Bergulir dari Kelompok Masyarakat",
-target: "217500000.00",
-realisasi: "115324900.00",
-presentase: "53.02"
-},
-{
-nama: "Lain - lain Pendapatan BLUD",
-target: "74000000000.00",
-realisasi: "51194237065.60",
-presentase: "69.18"
-},
-{
-nama: "Sewa pabrik es tamperan",
-target: "41003400.00",
-realisasi: "24602040.00",
-presentase: "60.00"
-},
-{
-nama: "Pendapatan Lain-lain",
-target: "362433404.00",
-realisasi: "491577544.98",
-presentase: "135.63"
-},
-{
-nama: "Pendapatan dari hasil perjanjian kerjasama",
-target: "725500000.00",
-realisasi: "631193000.00",
-presentase: "87.00"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Pacitan ",
-target: "566785209.00",
-realisasi: "680114051.00",
-presentase: "120.00"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Tanjungsari ",
-target: "1514037017.00",
-realisasi: "1329066127.00",
-presentase: "87.78"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Kebonagung ",
-target: "645230260.00",
-realisasi: "630372908.00",
-presentase: "97.70"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Ketro Wonojoyo ",
-target: "396690072.00",
-realisasi: "365112366.00",
-presentase: "92.04"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Arjosari ",
-target: "940559463.00",
-realisasi: "908559349.00",
-presentase: "96.60"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Kedungbendo ",
-target: "392710840.00",
-realisasi: "265820077.00",
-presentase: "67.69"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Punung ",
-target: "536303791.00",
-realisasi: "480241291.00",
-presentase: "89.55"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Gondosari ",
-target: "377142416.00",
-realisasi: "283460904.00",
-presentase: "75.16"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Pringkuku ",
-target: "465041569.00",
-realisasi: "454974993.00",
-presentase: "97.84"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Candi ",
-target: "369426071.00",
-realisasi: "287575433.00",
-presentase: "77.84"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Donorojo ",
-target: "724739387.00",
-realisasi: "634348000.00",
-presentase: "87.53"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Kalak ",
-target: "501736782.00",
-realisasi: "337868900.00",
-presentase: "67.34"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Ngadirojo ",
-target: "926517769.00",
-realisasi: "808914100.00",
-presentase: "87.31"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Wonokarto ",
-target: "370142540.00",
-realisasi: "300238400.00",
-presentase: "81.11"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Tulakan ",
-target: "1734815446.00",
-realisasi: "1510009000.00",
-presentase: "87.04"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Bubakan ",
-target: "897185288.00",
-realisasi: "826147150.00",
-presentase: "92.08"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Sudimoro ",
-target: "557519187.00",
-realisasi: "432063250.00",
-presentase: "77.50"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Sukorejo ",
-target: "415155339.00",
-realisasi: "304156099.00",
-presentase: "73.26"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Tegalombo ",
-target: "1830295326.00",
-realisasi: "1337078656.00",
-presentase: "73.05"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Gemaharjo ",
-target: "1114281192.00",
-realisasi: "727608025.00",
-presentase: "65.30"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Nawangan ",
-target: "910276307.00",
-realisasi: "853979625.00",
-presentase: "93.82"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Pakisbaru ",
-target: "807047501.00",
-realisasi: "885388000.00",
-presentase: "109.71"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Bandar ",
-target: "721205340.00",
-realisasi: "634379900.00",
-presentase: "87.96"
-},
-{
-nama: "Pendapatan Dana kapitasi JKN FKTP Puskesmas Jeruk ",
-target: "812635950.00",
-realisasi: "396304100.00",
-presentase: "48.77"
-}
-]
+   "todolist":[
+      {
+         "nama":"Hotel Melati Tiga",
+         "target":"105139440.00",
+         "realisasi":"97096616.00",
+         "presentase":"92.35"
+      },
+      {
+         "nama":"Hotel Melati Dua",
+         "target":"16790340.00",
+         "realisasi":"16884000.00",
+         "presentase":"100.56"
+      },
+      {
+         "nama":"Hotel Melati Satu",
+         "target":"49323302.00",
+         "realisasi":"39196071.00",
+         "presentase":"79.47"
+      },
+      {
+         "nama":"Losmen/Rumah Penginapan",
+         "target":"6877260.00",
+         "realisasi":"13626500.00",
+         "presentase":"198.14"
+      },
+      {
+         "nama":"Restoran",
+         "target":"45990800.00",
+         "realisasi":"52501648.00",
+         "presentase":"114.16"
+      },
+      {
+         "nama":"Rumah Makan",
+         "target":"34405000.00",
+         "realisasi":"37654000.00",
+         "presentase":"109.44"
+      },
+      {
+         "nama":"Katering",
+         "target":"318071200.00",
+         "realisasi":"541848789.44",
+         "presentase":"170.35"
+      },
+      {
+         "nama":"Pagelaran Kesenian",
+         "target":"10501680.00",
+         "realisasi":"6736500.00",
+         "presentase":"64.15"
+      },
+      {
+         "nama":"Permainan Biliar",
+         "target":"298500.00",
+         "realisasi":"298500.00",
+         "presentase":"100.00"
+      },
+      {
+         "nama":"Permainan Ketangkasan",
+         "target":"4000000.00",
+         "realisasi":"5143563.00",
+         "presentase":"128.59"
+      },
+      {
+         "nama":"Pusat Kebugaran",
+         "target":"700000.00",
+         "realisasi":"517000.00",
+         "presentase":"73.86"
+      },
+      {
+         "nama":"Pertandingan Olahraga",
+         "target":"279882.00",
+         "realisasi":"0.00",
+         "presentase":"0.00"
+      },
+      {
+         "nama":"Reklame/Bill Board",
+         "target":"121311872.00",
+         "realisasi":"120428448.00",
+         "presentase":"99.27"
+      },
+      {
+         "nama":"Reklame Kain",
+         "target":"18000000.00",
+         "realisasi":"24886238.00",
+         "presentase":"138.26"
+      },
+      {
+         "nama":"Reklame Berjalan",
+         "target":"439690.00",
+         "realisasi":"7915646.00",
+         "presentase":"1,800.28"
+      },
+      {
+         "nama":"Pajak Penerangan Jalan PLN",
+         "target":"9688500000.00",
+         "realisasi":"6472200640.00",
+         "presentase":"66.80"
+      },
+      {
+         "nama":"Pajak Parkir",
+         "target":"20997184.00",
+         "realisasi":"19623975.00",
+         "presentase":"93.46"
+      },
+      {
+         "nama":"Pajak Air tanah",
+         "target":"22960337.00",
+         "realisasi":"27629170.00",
+         "presentase":"120.33"
+      },
+      {
+         "nama":"Mineral Bukan Logam dan Batuan",
+         "target":"36616187.00",
+         "realisasi":"40050000.00",
+         "presentase":"109.38"
+      },
+      {
+         "nama":"Pajak Batuan Non Sirtu",
+         "target":"11872000.00",
+         "realisasi":"9426000.00",
+         "presentase":"79.40"
+      },
+      {
+         "nama":"PBB P2",
+         "target":"14160284000.00",
+         "realisasi":"8689812612.00",
+         "presentase":"61.37"
+      },
+      {
+         "nama":"Bea Perolehan Tanah dan Bangunan",
+         "target":"1786338827.00",
+         "realisasi":"1531291245.00",
+         "presentase":"85.72"
+      },
+      {
+         "nama":"Retribusi Pelayanan Kesehatan",
+         "target":"7295138932.00",
+         "realisasi":"4258708800.00",
+         "presentase":"58.38"
+      },
+      {
+         "nama":"Retribusi Pelayanan Parkir di tepi jalan umum",
+         "target":"1239655000.00",
+         "realisasi":"901926500.00",
+         "presentase":"72.76"
+      },
+      {
+         "nama":"Retribusi Pelayanan Pasar",
+         "target":"2650450000.00",
+         "realisasi":"1169603000.00",
+         "presentase":"44.13"
+      },
+      {
+         "nama":"Retribusi Pengujian Kendaraan Bermotor",
+         "target":"213965000.00",
+         "realisasi":"177800000.00",
+         "presentase":"83.10"
+      },
+      {
+         "nama":"Retribusi Pengendalian Menara Telekomunikasi",
+         "target":"350000000.00",
+         "realisasi":"477537000.00",
+         "presentase":"136.44"
+      },
+      {
+         "nama":"Retribusi Pelayanan Tera/Tera Ulang",
+         "target":"17250000.00",
+         "realisasi":"0.00",
+         "presentase":"0.00"
+      },
+      {
+         "nama":"Retribusi Pemakaian Kekayaan Daerah",
+         "target":"62165000.00",
+         "realisasi":"56161500.00",
+         "presentase":"90.34"
+      },
+      {
+         "nama":"Retribusi Tempat Pelelangan",
+         "target":"138511255.00",
+         "realisasi":"89596315.00",
+         "presentase":"64.69"
+      },
+      {
+         "nama":"Retribusi Terminal",
+         "target":"22592000.00",
+         "realisasi":"19645000.00",
+         "presentase":"86.96"
+      },
+      {
+         "nama":"Retribusi Tempat Khusus Parkir",
+         "target":"2489000.00",
+         "realisasi":"1723000.00",
+         "presentase":"69.22"
+      },
+      {
+         "nama":"Retribusi Tempat Penginapan/Pesanggrahan/Villa",
+         "target":"9000000.00",
+         "realisasi":"3795000.00",
+         "presentase":"42.17"
+      },
+      {
+         "nama":"Retribusi Rumah Potong Hewan",
+         "target":"14260000.00",
+         "realisasi":"7015000.00",
+         "presentase":"49.19"
+      },
+      {
+         "nama":"Pendapatan Denda Pajak Restoran",
+         "target":"9200.00",
+         "realisasi":"23980.00",
+         "presentase":"260.65"
+      },
+      {
+         "nama":"Pendapatan Denda Pajak Reklame",
+         "target":"768448.00",
+         "realisasi":"1829948.00",
+         "presentase":"238.14"
+      },
+      {
+         "nama":"Pendapatan Denda Pajak Parkir",
+         "target":"2816.00",
+         "realisasi":"17792.00",
+         "presentase":"631.82"
+      },
+      {
+         "nama":"Pendapatan Denda Pajak Air Tanah",
+         "target":"39663.00",
+         "realisasi":"46498.00",
+         "presentase":"117.23"
+      },
+      {
+         "nama":"Pendapatan Denda Pajak Mineral Bukan Logam dan Batuan",
+         "target":"683813.00",
+         "realisasi":"733373.00",
+         "presentase":"107.25"
+      },
+      {
+         "nama":"Pendapatan Denda Pajak Bumi dan Bangunan Perdesaan dan Perkotaan",
+         "target":"2070000.00",
+         "realisasi":"20862465.00",
+         "presentase":"1,007.85"
+      },
+      {
+         "nama":"Pendapatan Denda Bea Perolehan Hak Atas Tanah dan Bangunan",
+         "target":"178961173.00",
+         "realisasi":"178961173.00",
+         "presentase":"100.00"
+      },
+      {
+         "nama":"Pendapatan dari Pengembalian Kelebihan pembayaran Gaji dan Tunjangan",
+         "target":"17867950.00",
+         "realisasi":"67586256.00",
+         "presentase":"378.25"
+      },
+      {
+         "nama":"Hasil Pengelolaan Dana Bergulir dari Kelompok Masyarakat",
+         "target":"217500000.00",
+         "realisasi":"115324900.00",
+         "presentase":"53.02"
+      },
+      {
+         "nama":"Lain - lain Pendapatan BLUD",
+         "target":"74000000000.00",
+         "realisasi":"51194237065.60",
+         "presentase":"69.18"
+      },
+      {
+         "nama":"Sewa pabrik es tamperan",
+         "target":"41003400.00",
+         "realisasi":"24602040.00",
+         "presentase":"60.00"
+      },
+      {
+         "nama":"Pendapatan Lain-lain",
+         "target":"362433404.00",
+         "realisasi":"491577544.98",
+         "presentase":"135.63"
+      },
+      {
+         "nama":"Pendapatan dari hasil perjanjian kerjasama",
+         "target":"725500000.00",
+         "realisasi":"631193000.00",
+         "presentase":"87.00"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Pacitan ",
+         "target":"566785209.00",
+         "realisasi":"680114051.00",
+         "presentase":"120.00"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Tanjungsari ",
+         "target":"1514037017.00",
+         "realisasi":"1329066127.00",
+         "presentase":"87.78"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Kebonagung ",
+         "target":"645230260.00",
+         "realisasi":"630372908.00",
+         "presentase":"97.70"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Ketro Wonojoyo ",
+         "target":"396690072.00",
+         "realisasi":"365112366.00",
+         "presentase":"92.04"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Arjosari ",
+         "target":"940559463.00",
+         "realisasi":"908559349.00",
+         "presentase":"96.60"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Kedungbendo ",
+         "target":"392710840.00",
+         "realisasi":"265820077.00",
+         "presentase":"67.69"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Punung ",
+         "target":"536303791.00",
+         "realisasi":"480241291.00",
+         "presentase":"89.55"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Gondosari ",
+         "target":"377142416.00",
+         "realisasi":"283460904.00",
+         "presentase":"75.16"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Pringkuku ",
+         "target":"465041569.00",
+         "realisasi":"454974993.00",
+         "presentase":"97.84"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Candi ",
+         "target":"369426071.00",
+         "realisasi":"287575433.00",
+         "presentase":"77.84"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Donorojo ",
+         "target":"724739387.00",
+         "realisasi":"634348000.00",
+         "presentase":"87.53"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Kalak ",
+         "target":"501736782.00",
+         "realisasi":"337868900.00",
+         "presentase":"67.34"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Ngadirojo ",
+         "target":"926517769.00",
+         "realisasi":"808914100.00",
+         "presentase":"87.31"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Wonokarto ",
+         "target":"370142540.00",
+         "realisasi":"300238400.00",
+         "presentase":"81.11"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Tulakan ",
+         "target":"1734815446.00",
+         "realisasi":"1510009000.00",
+         "presentase":"87.04"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Bubakan ",
+         "target":"897185288.00",
+         "realisasi":"826147150.00",
+         "presentase":"92.08"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Sudimoro ",
+         "target":"557519187.00",
+         "realisasi":"432063250.00",
+         "presentase":"77.50"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Sukorejo ",
+         "target":"415155339.00",
+         "realisasi":"304156099.00",
+         "presentase":"73.26"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Tegalombo ",
+         "target":"1830295326.00",
+         "realisasi":"1337078656.00",
+         "presentase":"73.05"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Gemaharjo ",
+         "target":"1114281192.00",
+         "realisasi":"727608025.00",
+         "presentase":"65.30"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Nawangan ",
+         "target":"910276307.00",
+         "realisasi":"853979625.00",
+         "presentase":"93.82"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Pakisbaru ",
+         "target":"807047501.00",
+         "realisasi":"885388000.00",
+         "presentase":"109.71"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Bandar ",
+         "target":"721205340.00",
+         "realisasi":"634379900.00",
+         "presentase":"87.96"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Jeruk ",
+         "target":"812635950.00",
+         "realisasi":"396304100.00",
+         "presentase":"48.77"
+      }
+   ]
 }
