@@ -403,6 +403,24 @@
          "presentase":"65.30"
       },
       {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Nawangan ",
+         "target":"910276307.00",
+         "realisasi":"853979625.00",
+         "presentase":"93.82"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Pakisbaru ",
+         "target":"807047501.00",
+         "realisasi":"885388000.00",
+         "presentase":"109.71"
+      },
+      {
+         "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Bandar ",
+         "target":"721205340.00",
+         "realisasi":"634379900.00",
+         "presentase":"87.96"
+      },
+      {
          "nama":"Pendapatan Dana kapitasi JKN FKTP Puskesmas Jeruk ",
          "target":"812635950.00",
          "realisasi":"396304100.00",
