@@ -1,66 +1,6 @@
 {
    "todolist":[
       {
-         "nama":"Hotel Melati Tiga",
-         "target":"105139440.00",
-         "realisasi":"97096616.00",
-         "presentase":"92.35"
-      },
-      {
-         "nama":"Mineral Bukan Logam dan Batuan",
-         "target":"36616187.00",
-         "realisasi":"40050000.00",
-         "presentase":"109.38"
-      },
-      {
-         "nama":"Pajak Batuan Non Sirtu",
-         "target":"11872000.00",
-         "realisasi":"9426000.00",
-         "presentase":"79.40"
-      },
-      {
-         "nama":"PBB P2",
-         "target":"14160284000.00",
-         "realisasi":"8689812612.00",
-         "presentase":"61.37"
-      },
-      {
-         "nama":"Bea Perolehan Tanah dan Bangunan",
-         "target":"1786338827.00",
-         "realisasi":"1531291245.00",
-         "presentase":"85.72"
-      },
-      {
-         "nama":"Retribusi Pelayanan Kesehatan",
-         "target":"7295138932.00",
-         "realisasi":"4258708800.00",
-         "presentase":"58.38"
-      },
-      {
-         "nama":"Retribusi Pelayanan Parkir di tepi jalan umum",
-         "target":"1239655000.00",
-         "realisasi":"901926500.00",
-         "presentase":"72.76"
-      },
-      {
-         "nama":"Retribusi Pelayanan Pasar",
-         "target":"2650450000.00",
-         "realisasi":"1169603000.00",
-         "presentase":"44.13"
-      },
-      {
-         "nama":"Retribusi Pengujian Kendaraan Bermotor",
-         "target":"213965000.00",
-         "realisasi":"177800000.00",
-         "presentase":"83.10"
-      },
-      {
-         "nama":"Retribusi Pengendalian Menara Telekomunikasi",
-         "target":"350000000.00",
-         "realisasi":"477537000.00",
-         "presentase":"136.44"
-      },
-      {
          "nama":"Retribusi Pelayanan Tera/Tera Ulang",
          "target":"17250000.00",
          "realisasi":"0.00",
